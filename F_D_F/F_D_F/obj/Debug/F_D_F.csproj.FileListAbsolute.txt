@@ -1,0 +1,30 @@
+c:\users\adamc\source\repos\F_D_F\F_D_F\obj\Debug\F_D_F.csprojResolveAssemblyReference.cache
+c:\users\adamc\source\repos\F_D_F\F_D_F\obj\Debug\F_D_F.Form1.resources
+c:\users\adamc\source\repos\F_D_F\F_D_F\obj\Debug\F_D_F.Properties.Resources.resources
+c:\users\adamc\source\repos\F_D_F\F_D_F\obj\Debug\F_D_F.csproj.GenerateResource.Cache
+c:\users\adamc\source\repos\F_D_F\F_D_F\obj\Debug\F_D_F.csproj.CoreCompileInputs.cache
+c:\users\adamc\source\repos\F_D_F\F_D_F\bin\Debug\F_D_F.exe.config
+c:\users\adamc\source\repos\F_D_F\F_D_F\bin\Debug\F_D_F.exe
+c:\users\adamc\source\repos\F_D_F\F_D_F\bin\Debug\F_D_F.pdb
+c:\users\adamc\source\repos\F_D_F\F_D_F\obj\Debug\F_D_F.exe
+c:\users\adamc\source\repos\F_D_F\F_D_F\obj\Debug\F_D_F.pdb
+C:\Users\adamc\Desktop\New folder (6)\F_D_F\bin\Debug\F_D_F.exe.config
+C:\Users\adamc\Desktop\New folder (6)\F_D_F\bin\Debug\F_D_F.exe
+C:\Users\adamc\Desktop\New folder (6)\F_D_F\bin\Debug\F_D_F.pdb
+C:\Users\adamc\Desktop\New folder (6)\F_D_F\obj\Debug\F_D_F.csprojResolveAssemblyReference.cache
+C:\Users\adamc\Desktop\New folder (6)\F_D_F\obj\Debug\F_D_F.Form1.resources
+C:\Users\adamc\Desktop\New folder (6)\F_D_F\obj\Debug\F_D_F.Properties.Resources.resources
+C:\Users\adamc\Desktop\New folder (6)\F_D_F\obj\Debug\F_D_F.csproj.GenerateResource.Cache
+C:\Users\adamc\Desktop\New folder (6)\F_D_F\obj\Debug\F_D_F.csproj.CoreCompileInputs.cache
+C:\Users\adamc\Desktop\New folder (6)\F_D_F\obj\Debug\F_D_F.exe
+C:\Users\adamc\Desktop\New folder (6)\F_D_F\obj\Debug\F_D_F.pdb
+C:\Users\adamc\Desktop\work\F_D_F\F_D_F\obj\Debug\F_D_F.csprojResolveAssemblyReference.cache
+C:\Users\adamc\Desktop\work\F_D_F\F_D_F\obj\Debug\F_D_F.Form1.resources
+C:\Users\adamc\Desktop\work\F_D_F\F_D_F\obj\Debug\F_D_F.Properties.Resources.resources
+C:\Users\adamc\Desktop\work\F_D_F\F_D_F\obj\Debug\F_D_F.csproj.GenerateResource.Cache
+C:\Users\adamc\Desktop\work\F_D_F\F_D_F\obj\Debug\F_D_F.csproj.CoreCompileInputs.cache
+C:\Users\adamc\Desktop\work\F_D_F\F_D_F\obj\Debug\F_D_F.exe
+C:\Users\adamc\Desktop\work\F_D_F\F_D_F\obj\Debug\F_D_F.pdb
+C:\Users\adamc\Desktop\work\F_D_F\F_D_F\bin\Debug\F_D_F.exe.config
+C:\Users\adamc\Desktop\work\F_D_F\F_D_F\bin\Debug\F_D_F.exe
+C:\Users\adamc\Desktop\work\F_D_F\F_D_F\bin\Debug\F_D_F.pdb
